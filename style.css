@@ -1,0 +1,41 @@
+﻿.mainheader{
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size:50px;
+	color:white;
+	font-weight:bold;
+	text-align:center;
+}
+body{
+background-color:black;
+
+}
+
+.imgpos{
+margin: 0 auto;
+width:400px;
+	
+}
+.text{
+	font-size: 16px;
+	text-align:center;
+	color:white;
+}
+#soon{
+	color:aqua;
+	text-align:center;
+	text-decoration:underline;
+}
+video {
+    left: 35%;
+    position:relative;
+    top: 35%;
+    
+    /* transform: translate(-50%, -50%);*/
+}
+img{
+	top:auto;
+	left:15%;
+	position:relative;
+	
+	
+}
