@@ -2,9 +2,57 @@
 	font-family:Verdana, Geneva, Tahoma, sans-serif;
 	font-size:50px;
 	color:white;
-	font-weight:normal;
+	font-weight:bold;
 	text-align:center;
 }
+
 body{
-background-color:black
+background-color:black;
+
 }
+
+.imgpos{
+margin: 0 auto;
+width:400px;
+	
+}
+
+.text{
+	font-size: 26px;
+	text-align:center;
+	color:white;
+}
+
+.blueUnderline{
+	color:#33CCCC;
+	text-align:center;
+	text-decoration:underline;
+}
+
+video {
+    left: 35%;
+    position:relative;
+    top: 35%;
+}
+
+img{
+	top:auto;
+	left:15%;
+	position:relative;
+	
+}
+
+IMG.displayed{
+	display:block;
+	margin-left:30%;
+	margin-right:auto;
+}
+
+.Bigwhiteheader{
+	color:white;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-weight:300;
+	font-size:42px;
+	text-align:center;
+	}
+	

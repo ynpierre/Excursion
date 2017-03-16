@@ -5,6 +5,7 @@
 	font-weight:bold;
 	text-align:center;
 }
+
 body{
 background-color:black;
 
@@ -15,16 +16,19 @@ margin: 0 auto;
 width:400px;
 	
 }
+
 .text{
-	font-size: 16px;
+	font-size: 26px;
 	text-align:center;
 	color:white;
 }
-#soon{
+
+.blueUnderline{
 	color:aqua;
 	text-align:center;
 	text-decoration:underline;
 }
+
 video {
     left: 35%;
     position:relative;
@@ -32,10 +36,25 @@ video {
     
     /* transform: translate(-50%, -50%);*/
 }
+
 img{
 	top:auto;
 	left:15%;
 	position:relative;
 	
-	
+}
+
+IMG.displayed{
+
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.Bigwhiteheader{
+	color:white;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-weight:300;
+	font-size:42px;
+	text-align:center;
 }
